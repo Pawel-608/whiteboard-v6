@@ -1,0 +1,1 @@
+const shortcuts = [{name: "brush", key: "b"}, {name: "eraser", key: "e"}];

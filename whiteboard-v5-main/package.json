@@ -1,0 +1,20 @@
+{
+  "name": "whiteboard-v5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "author": "Pawel Rainer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "helmet": "4.2.0",
+    "mongoose": "5.10.15",
+    "nodemon": "2.0.6",
+    "socket.io": "3.0.3",
+    "uuid": "8.3.1"
+  }
+}

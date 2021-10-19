@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whiteboard</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Da+2:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="getName">
+        <div class="nick-warn" style="display: none;"></div>
+        <input class="name" placeholder="Enter your nickname" minlength="4"maxlength="20"></input>
+        <span class="focus-bg"></span>
+        <div class="submit-nick">Submit</div>
+    </div>
+    <nav>
+        <div class="nav">
+            <div class="tools" style="display: none;">
+    
+                <div class="brush"></div>
+
+                <div class="eraser">
+                    <div class="hide clear">Kliknij, by wymazać stronę</div>
+                </div>
+
+            </div>
+
+            <div class="controls" style="display: none;">
+
+                
+                    <output for="paint-size-in" class="paint-size-out">2</output>
+                    <input type="range" name="paint-size-in" id="paint-size-in" class="paint-size-in" min="1" max="100" value="2">
+                
+
+                <input type="color" name="color" class="color" id="color">
+                <label for="color" class="color-label">
+                    <div class="color-label-element" id="color-label"></div>
+                </label>
+
+            </div>
+
+            <div class="settings-slider" style="display: none;">
+                <div style="cursor: crosshair;"></div>
+            </div>
+            
+            <div class="settings"></div>
+
+            <a class="download" download="Whiteboard.png">
+                <div class="download-btn">
+                    <div class="hide">Pobierz obraz</div>
+                </div>
+            </a>
+        </div>
+    </nav>
+
+    <script src="/socket.io/socket.io.js"></script>
+
+    <script src="js/stretchy.js"></script>
+    <script src="js/disableScroll.js"></script>
+
+    <script src="js/elements.js"></script>
+    <script src="js/shortcuts.js"></script>
+    <script src="js/whiteboardConfig.js"></script>
+    <script src="js/settings.js"></script>
+
+    <script src="js/tools.js"></script>
+    <script src="js/socket.js"></script>
+
+
+    <script src="js/nick.js"></script>
+    <script src="js/controls.js"></script>
+    <script src="js/drawing.js"></script>
+    <script src="js/whiteboard.js"></script>
+
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>

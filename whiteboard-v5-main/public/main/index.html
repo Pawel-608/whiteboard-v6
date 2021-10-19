@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Da+2:400,700&display=swap&subset=latin-ext" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Whiteboard</title>
+  </head>
+
+  <body>
+    <div class="inputs">
+      <div class="create-pack">
+        <div class="btn create-board">Create new whieboard</div>
+      </div>
+      <div class="join-pack">
+        <div class="invalid-id"></div>
+        <input type="text" name="board-id" id="board-id" class="txt-inp" placeholder="Enter board id" maxlength="8" />
+        <span class="focus-bg"></span>
+        <div class="enter-board">Join board</div>
+      </div>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="newlogo.js"></script>
+    <script src="script.js"></script>
+    <script src="drawing.js"></script>
+  </body>
+</html>

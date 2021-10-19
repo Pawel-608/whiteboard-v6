@@ -1,0 +1,1 @@
+zxcvbnm,. Problem: when user delete his userdraw object and he draw sth before auth is checked colors, line width etc. can be other then in other users

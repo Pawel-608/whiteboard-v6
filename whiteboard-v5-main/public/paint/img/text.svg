@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.591372mm"
+   height="7.0538106mm"
+   viewBox="0 0 5.591372 7.0538106"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="text.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="26.339133"
+     inkscape:cy="22.948105"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-107.24887,-112.68294)">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="text835"
+       aria-label="T">
+      <path
+         id="path847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 107.24887,112.68294 h 5.59137 v 1.79833 h -0.50643 q -0.11368,-0.44441 -0.22737,-0.7028 -0.10852,-0.25838 -0.23254,-0.39274 -0.12403,-0.13435 -0.26872,-0.1912 -0.13953,-0.0568 -0.42375,-0.0568 h -0.65628 v 5.29165 q 0,0.30489 0.031,0.48576 0.0362,0.18086 0.10335,0.28938 0.0724,0.10335 0.19121,0.16537 0.11885,0.0568 0.37206,0.11368 v 0.25322 h -2.3616 v -0.25322 q 0.15503,-0.0362 0.27388,-0.0775 0.11886,-0.0413 0.19121,-0.0982 0.0775,-0.062 0.12402,-0.15502 0.0517,-0.093 0.0775,-0.25322 0.031,-0.16019 0.031,-0.47025 v -5.29165 h -0.65112 q -0.24288,0 -0.40308,0.0465 -0.15503,0.0465 -0.28938,0.19637 -0.13436,0.14469 -0.24805,0.41857 -0.10852,0.26872 -0.20671,0.68213 h -0.51159 z" />
+    </g>
+  </g>
+</svg>
