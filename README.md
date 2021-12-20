@@ -1,5 +1,5 @@
 <b><h2>terrible code up here^</h2></b>
-<br>
+You can find rewritten frontend here: [local-whiteboard](https://github.com/Pawel-608/local-whiteboard)
 
 # whiteboard-v6
 
