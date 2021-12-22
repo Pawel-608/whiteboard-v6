@@ -107,8 +107,9 @@ input {
   height: 100vh;
   display: grid;
   grid-template-columns: 5em auto 14em;
-  grid-template-rows: auto 5em;
+  grid-template-rows: 0.2em auto 5em;
   grid-template-areas:
+    ". . ."
     "tools . controls"
     "settings . download";
 }
